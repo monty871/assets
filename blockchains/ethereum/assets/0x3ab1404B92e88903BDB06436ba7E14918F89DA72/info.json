@@ -1,1 +1,12 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "This token is only for testing and educational purposes.",
+  "website": "https://shapeer.in/",
+  "explorer": "https://etherscan.io/token/0x3ab1404B92e88903BDB06436ba7E14918F89DA72",
+  "status": "active",
+  "id": "0x3ab1404B92e88903BDB06436ba7E14918F89DA72"
+}
 
